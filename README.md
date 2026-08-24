@@ -10,7 +10,7 @@ An end-to-end machine learning project that detects potential fraudulent UPI (Un
 ## 🚀 Features
 
 * **Model**: XGBoost classifier
-* **Accuracy**: \~57% (can be further improved)
+* **Accuracy**: \~77% (can be further improved)
 * **Interactive UI**: Built with Streamlit
 * **Feature Engineering**: Extracts time-based patterns (hour, day, weekday, etc.) and UPI provider insights
 * **Encodes UPI IDs securely** using hashing
