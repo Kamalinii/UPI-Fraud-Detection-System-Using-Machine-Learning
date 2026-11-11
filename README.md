@@ -122,14 +122,7 @@ Amount (INR), Sender UPI ID, Receiver UPI ID, Timestamp
 
 ## 📈 Model Evaluation
 
-Confusion Matrix:
-
-```
-[[63 40]
- [46 51]]
-```
-
-Accuracy: **57%**
+``
 
 > Can be improved using SMOTE, better features, or deep learning.
 
